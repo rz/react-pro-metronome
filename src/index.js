@@ -4,17 +4,17 @@ import { Howl } from 'howler'
 
 import { numberInRange, stringWithLength } from '../utils/advanced-prop-types'
 
-import click3SoundFileMP3 from './sounds/click3.mp3'
-import click3SoundFileOGG from './sounds/click3.ogg'
-import click3SoundFileAAC from './sounds/click3.aac'
+import click3SoundFileMP3 from '../sounds/click3.mp3'
+import click3SoundFileOGG from '../sounds/click3.ogg'
+import click3SoundFileAAC from '../sounds/click3.aac'
 
-import click2SoundFileMP3 from './sounds/click2.mp3'
-import click2SoundFileOGG from './sounds/click2.ogg'
-import click2SoundFileAAC from './sounds/click2.aac'
+import click2SoundFileMP3 from '../sounds/click2.mp3'
+import click2SoundFileOGG from '../sounds/click2.ogg'
+import click2SoundFileAAC from '../sounds/click2.aac'
 
-import click1SoundFileMP3 from './sounds/click1.mp3'
-import click1SoundFileOGG from './sounds/click1.ogg'
-import click1SoundFileAAC from './sounds/click1.aac'
+import click1SoundFileMP3 from '../sounds/click1.mp3'
+import click1SoundFileOGG from '../sounds/click1.ogg'
+import click1SoundFileAAC from '../sounds/click1.aac'
 
 const MAXBPM = 300
 const MAXSUBDIVISION = 8
